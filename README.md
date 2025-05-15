@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains an Ansible playbook for creating and managing an AWS VPC. It simplifies the process of provisioning VPC resources such as subnets, route tables, and internet gateways.
+This repository contains an Ansible playbook for creating and managing an AWS VPC. It simplifies the process of provisioning VPC resources such as subnets, route tables, and internet gateways on AWS.
 
 ## Features
 
