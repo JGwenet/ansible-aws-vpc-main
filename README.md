@@ -40,7 +40,7 @@ This repository contains an Ansible playbook for creating and managing an AWS VP
 
     ### Usage
 
-    1. Connect to the bastion host (assumes the baston host is an aws machine):
+    1. Connect to the bastion host (assumes the bastion host is an aws machine):
         ```bash
         ssh -i /path/to/your-key.pem ec2-user@<bastion-host-public-ip>
         ```
